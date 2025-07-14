@@ -1,5 +1,5 @@
 import pandas as pd
-
+#added a comment
 # Input file path
 input_path = r"C:\Users\archa\OneDrive\Documents\GitHub\Learners-Repo\stock_market_june2025.csv"
 
